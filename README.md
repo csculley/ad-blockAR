@@ -1,3 +1,5 @@
+![Logo](https://raw.githubusercontent.com/csculley/ad-blockAR/master/aaa.png)
+
 ## Inspiration
 We're tired of seeing invasive advertisements and blatant commercialization all around us. With new AR technology, there may be better ways to help mask and put these advertisements out of sight, or in a new light.
 ## What it does
